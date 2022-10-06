@@ -25,6 +25,8 @@ WriteLine("17- Porta");
 WriteLine("18- Pulseira");
 WriteLine("19- Tapete");
 WriteLine("20- Vassoura");
+Writeine("carteira");
+WriteLine("Lápis");
 WriteLine("");
 WriteLine("Digite um destes números apresentados acima para saber o significado");
 WriteLine("");
