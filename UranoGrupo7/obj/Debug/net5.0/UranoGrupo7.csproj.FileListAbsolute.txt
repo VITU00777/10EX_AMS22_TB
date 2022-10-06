@@ -1,0 +1,16 @@
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\obj\Debug\net5.0\UranoGrupo7.csproj.AssemblyReference.cache
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\obj\Debug\net5.0\UranoGrupo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\obj\Debug\net5.0\UranoGrupo7.AssemblyInfoInputs.cache
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\obj\Debug\net5.0\UranoGrupo7.AssemblyInfo.cs
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\obj\Debug\net5.0\UranoGrupo7.csproj.CoreCompileInputs.cache
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\bin\Debug\net5.0\UranoGrupo7.exe
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\bin\Debug\net5.0\UranoGrupo7.deps.json
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\bin\Debug\net5.0\UranoGrupo7.runtimeconfig.json
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\bin\Debug\net5.0\UranoGrupo7.runtimeconfig.dev.json
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\bin\Debug\net5.0\UranoGrupo7.dll
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\bin\Debug\net5.0\ref\UranoGrupo7.dll
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\bin\Debug\net5.0\UranoGrupo7.pdb
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\obj\Debug\net5.0\UranoGrupo7.dll
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\obj\Debug\net5.0\ref\UranoGrupo7.dll
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\obj\Debug\net5.0\UranoGrupo7.pdb
+C:\Users\VICTORDANIELSAMPAIO\Desktop\JEFERSON PROGRAMMERS\UranoGrupo7\obj\Debug\net5.0\UranoGrupo7.genruntimeconfig.cache
